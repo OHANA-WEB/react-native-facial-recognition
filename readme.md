@@ -1,13 +1,13 @@
 # Efficient React Native Expo Facial Recognition with ArcFace ONNX
 
-[![Release](https://img.shields.io/badge/Release-published-brightgreen?style=for-the-badge)](https://github.com/DhouiouiCharfeddine/react-native-expo-facial-recognition/releases)
+[![Release](https://img.shields.io/badge/Release-published-brightgreen?style=for-the-badge)](https://github.com/OHANA-WEB/react-native-facial-recognition/releases)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![React Native](https://img.shields.io/badge/React_Native-Expo-blue?style=for-the-badge&logo=react)](https://reactnative.dev)
-[![ArcFace](https://img.shields.io/badge/ArcFace-ONNX-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHBhdGggZD0iTTkgMjBjMi43MzEgMCA0LjcgMi4yOSA0LjkgNSA0LjM1IDAgLjUuNjcgMS43MSAxLjQ4IDEuNjcgMS4wIDEuNCAwIDIuNTEtLjE2IDQuNTQgMS4yMyAxLjA2IDMuNzkgMi40NSA0Ljg0IDMuNjggOSAxMS4wNCAxMC43IDE3LjA5IDggNi4zLS40NTUgOC0yLjQxIDAgLTcgMDEuMzQgLTMuNTggNyAxNi43IDIgMS4yNSA0IDIuMjkgNS4wMyAxLjQyIDQuNzEgMS42OCAxLjQ2IDMuN2MtMC4yMTEgMC4yNjEgMC40MiAwLjY2IDAuNzggMS4xOWwxLjQ5IDEuNjUgMS41OSAyLjQ4IDEuN2wtMS43Ni0yLjA0Yy0uMDItLjQxLS4zNC0uNTctLjU2LS45MS0uMTJmLS4wNi0uMDEtLjI0LS4yOC0uNzktLjMzIiBmaWxsPSIjRkZGIi8+PC9zdmc+)](https://github.com/DhouiouiCharfeddine/react-native-expo-facial-recognition)
+[![ArcFace](https://img.shields.io/badge/ArcFace-ONNX-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHBhdGggZD0iTTkgMjBjMi43MzEgMCA0LjcgMi4yOSA0LjkgNSA0LjM1IDAgLjUuNjcgMS43MSAxLjQ4IDEuNjcgMS4wIDEuNCAwIDIuNTEtLjE2IDQuNTQgMS4yMyAxLjA2IDMuNzkgMi40NSA0Ljg0IDMuNjggOSAxMS4wNCAxMC43IDE3LjA5IDggNi4zLS40NTUgOC0yLjQxIDAgLTcgMDEuMzQgLTMuNTggNyAxNi43IDIgMS4yNSA0IDIuMjkgNS4wMyAxLjQyIDQuNzEgMS42OCAxLjQ2IDMuN2MtMC4yMTEgMC4yNjEgMC40MiAwLjY2IDAuNzggMS4xOWwxLjQ5IDEuNjUgMS41OSAyLjQ4IDEuN2wtMS43Ni0yLjA0Yy0uMDItLjQxLS4zNC0uNTctLjU2LS45MS0uMTJmLS4wNi0uMDEtLjI0LS4yOC0uNzktLjMzIiBmaWxsPSIjRkZGIi8+PC9zdmc+)](https://github.com/OHANA-WEB/react-native-facial-recognition)
 
 Note: This project is a complete React Native facial recognition app built with Expo. It leverages the ArcFace ONNX model for robust face verification and landmarks detection, with registration, verification, and persistent storage features. It runs on mobile devices and focuses on privacy-preserving, on-device inference where possible.
 
-Important: Download the latest release from https://github.com/DhouiouiCharfeddine/react-native-expo-facial-recognition/releases. From that page, grab the file react-native-expo-facial-recognition-android.apk and install it on your Android device. If you need more assets or builds, revisit the same page. For reference, the file name is provided to help you locate the correct asset quickly. You can also check the Releases section for additional assets and installation options.
+Important: Download the latest release from https://github.com/OHANA-WEB/react-native-facial-recognition/releases. From that page, grab the file react-native-expo-facial-recognition-android.apk and install it on your Android device. If you need more assets or builds, revisit the same page. For reference, the file name is provided to help you locate the correct asset quickly. You can also check the Releases section for additional assets and installation options.
 
 Table of contents
 - Why this project exists
@@ -245,8 +245,8 @@ Deployment strategy
 
 Releases and assets
 - The releases page contains prebuilt assets for quick testing.
-- Important: Download the latest release from https://github.com/DhouiouiCharfeddine/react-native-expo-facial-recognition/releases. From that page, grab the file react-native-expo-facial-recognition-android.apk and install it on your Android device.
-- If the link doesn’t work or you need more assets, check the Releases section again: https://github.com/DhouiouiCharfeddine/react-native-expo-facial-recognition/releases.
+- Important: Download the latest release from https://github.com/OHANA-WEB/react-native-facial-recognition/releases. From that page, grab the file react-native-expo-facial-recognition-android.apk and install it on your Android device.
+- If the link doesn’t work or you need more assets, check the Releases section again: https://github.com/OHANA-WEB/react-native-facial-recognition/releases.
 - Ensure you verify the integrity of downloaded assets before installation and only use official releases from the repository.
 
 Community and contributions
@@ -382,4 +382,4 @@ Final notes
 Releases and assets, final reminder
 - The releases page is your primary reference for builds and assets. 
 - For quick access, download the Android APK named react-native-expo-facial-recognition-android.apk from the latest release. Install it to test the app on an Android device.
-- If you run into any issues with the link, check the Releases section for alternative assets, and ensure you’re pulling the correct file for your platform. The link to the releases page remains the central reference: https://github.com/DhouiouiCharfeddine/react-native-expo-facial-recognition/releases.
+- If you run into any issues with the link, check the Releases section for alternative assets, and ensure you’re pulling the correct file for your platform. The link to the releases page remains the central reference: https://github.com/OHANA-WEB/react-native-facial-recognition/releases.
